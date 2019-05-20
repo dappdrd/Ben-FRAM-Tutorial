@@ -1,0 +1,78 @@
+Command File =C:\Users\dappdrd\Desktop\Main folder for stuff\Helping others\Ben Nelson\Ben-FRAM-Tutorial\SLC-Valid2016_2016_NewBP     5/20/2019 12:00:00 AM
+ 
+=================== CompCatch Results ========================
+--------Stk Age Fsh TSp LandCatch Cohort     BaseExpRt FishScl StkFshI LegalProp
+CNRScale ft=36 1 scaler=      0.0204 Input= 140.0 TotEnc= 6873.854
+Total Model Stock Encounters/Morts=          0.00       168.764
+Total Fishery     Encounters/Morts=          0.00       168.764
+CNRScale ft=37 1 scaler=     13.7401 Input= 19.0 TotEnc=    1.383
+Total Model Stock Encounters/Morts=          0.00         5.700
+Total Fishery     Encounters/Morts=          0.00         5.700
+CNRScale ft=42 1 scaler=     66.7950 Input= 342.0 TotEnc=    5.120
+Total Model Stock Encounters/Morts=          0.00        68.037
+Total Fishery     Encounters/Morts=          0.00        68.037
+CNRScale ft=45 1 scaler=      0.3428 Input= 2026.0 TotEnc= 5909.398
+Total Model Stock Encounters/Morts=          0.00       383.664
+Total Fishery     Encounters/Morts=          0.00       383.664
+CNRScale ft=53 1 scaler=      6.7266 Input= 21158.0 TotEnc= 3145.408
+Total Model Stock Encounters/Morts=          0.00      3592.769
+Total Fishery     Encounters/Morts=          0.00      3592.769
+CNRScale ft=56 1 scaler=      0.0120 Input= 108.0 TotEnc= 9022.905
+Total Model Stock Encounters/Morts=          0.00        24.893
+Total Fishery     Encounters/Morts=          0.00        24.893
+=================== CompCatch Results ========================
+--------Stk Age Fsh TSp LandCatch Cohort     BaseExpRt FishScl StkFshI LegalProp
+=================== CompCatch Results ========================
+--------Stk Age Fsh TSp LandCatch Cohort     BaseExpRt FishScl StkFshI LegalProp
+=================== CompCatch Results ========================
+--------Stk Age Fsh TSp LandCatch Cohort     BaseExpRt FishScl StkFshI LegalProp
+=================== CompCatch Results ========================
+--------Stk Age Fsh TSp LandCatch Cohort     BaseExpRt FishScl StkFshI LegalProp
+CNRScale ft= 4 3 scaler=      3.5938 Input= 3821.0 TotEnc= 1063.213
+Total Model Stock Encounters/Morts=       1992.28       698.784
+Total Fishery     Encounters/Morts=       3268.18      1146.300
+CNRScale ft= 5 3 scaler=      4.8780 Input= 102.0 TotEnc=   20.910
+Total Model Stock Encounters/Morts=        245.58        29.881
+Total Fishery     Encounters/Morts=        251.49        30.600
+CNRScale ft= 6 3 scaler=      0.1424 Input= 92.0 TotEnc=  645.925
+Total Model Stock Encounters/Morts=          2.35        26.565
+Total Fishery     Encounters/Morts=          2.45        27.600
+CNRScale ft= 7 3 scaler=      5.3896 Input= 1238.0 TotEnc=  229.702
+Total Model Stock Encounters/Morts=          0.00       357.473
+Total Fishery     Encounters/Morts=          0.00       371.400
+CNRScale ft=12 3 scaler=      1.2064 Input= 9.0 TotEnc=    7.460
+Total Model Stock Encounters/Morts=          0.00         2.295
+Total Fishery     Encounters/Morts=          0.00         2.295
+CNRScale ft=36 3 scaler=      0.0034 Input= 14.0 TotEnc= 4177.492
+Total Model Stock Encounters/Morts=       2621.00       177.787
+Total Fishery     Encounters/Morts=       2621.00       177.787
+CNRScale ft=53 3 scaler=      0.3845 Input= 4294.0 TotEnc=11167.588
+Total Model Stock Encounters/Morts=          0.00       726.269
+Total Fishery     Encounters/Morts=          0.00       726.269
+CNRScale ft=56 3 scaler=      0.2470 Input= 1551.0 TotEnc= 6280.057
+Total Model Stock Encounters/Morts=          0.00       280.357
+Total Fishery     Encounters/Morts=          0.00       280.357
+CNRScale ft=64 3 scaler=     30.1287 Input= 824.0 TotEnc=   27.349
+Total Model Stock Encounters/Morts=          0.00       158.971
+Total Fishery     Encounters/Morts=          0.00       158.971
+=================== CompCatch Results ========================
+--------Stk Age Fsh TSp LandCatch Cohort     BaseExpRt FishScl StkFshI LegalProp
+=================== CompCatch Results ========================
+--------Stk Age Fsh TSp LandCatch Cohort     BaseExpRt FishScl StkFshI LegalProp
+CNRScale ft=36 4 scaler=      0.0212 Input= 177.0 TotEnc= 8359.967
+Total Model Stock Encounters/Morts=          0.00       289.181
+Total Fishery     Encounters/Morts=          0.00       289.181
+CNRScale ft=37 4 scaler=     13.4173 Input= 15.0 TotEnc=    1.118
+Total Model Stock Encounters/Morts=          1.00         4.500
+Total Fishery     Encounters/Morts=          1.00         4.500
+CNRScale ft=45 4 scaler=      0.0038 Input= 24.0 TotEnc= 6327.227
+Total Model Stock Encounters/Morts=          0.00        59.006
+Total Fishery     Encounters/Morts=          0.00        59.006
+CNRScale ft=53 4 scaler=      0.0533 Input= 199.0 TotEnc= 3730.748
+Total Model Stock Encounters/Morts=          0.00       177.192
+Total Fishery     Encounters/Morts=          0.00       177.192
+CNRScale ft=56 4 scaler=      0.0078 Input= 73.0 TotEnc= 9316.595
+Total Model Stock Encounters/Morts=          0.00        22.152
+Total Fishery     Encounters/Morts=          0.00        22.152
+=================== CompCatch Results ========================
+--------Stk Age Fsh TSp LandCatch Cohort     BaseExpRt FishScl StkFshI LegalProp
